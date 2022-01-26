@@ -5,6 +5,11 @@
 
 MuPlay Menu / Start Frame ^^^
 
+----------------
+
+Windows Executeable Download Link : https://icedrive.net/s/bQYh8FPvRRWb5R12DzDa4S9RPBCg
+*Run Main.exe*
+
 --------
 
 Please Put The `musicsong` Folder in The Root Directory 
